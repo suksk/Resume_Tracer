@@ -1,6 +1,6 @@
 # Resume Tracer
 
-A single-user application tracker and resume archive built with Next.js, TypeScript, and Tailwind CSS.
+A single-user application tracker and resume archive built with Next.js, TypeScript, and CSS.
 
 ## Run locally
 
